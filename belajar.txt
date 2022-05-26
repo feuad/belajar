@@ -3,4 +3,5 @@ pagi
 siang
 sore
 masa depan
-masa lalu
+masa sekarang
+boleh
