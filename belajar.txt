@@ -2,3 +2,5 @@ tugas
 pagi
 siang
 sore
+masa depan
+masa lalu
