@@ -1,0 +1,2 @@
+# belajar
+tugas dari qodr
